@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+var orangeCost = function(poc) {
+  var totalcost = poc * 5;
+	console.log (totalcost);
+};
+orangeCost(5);
